@@ -15,3 +15,7 @@ Output for Bali TCI prediction:
 "I Gusti Ngurah Rai Station"
 ![Uji Prediksi_Prophet](https://github.com/tapriliando/Prophet-Model-for-Predict-Tourism-Climate-Index-TCI-in-Bali/assets/136974864/f11b2ae3-2c59-411e-9564-2832120483df)
 "Denpasar Station"
+![Uji Prediksi_Prophet](https://github.com/tapriliando/Prophet-Model-for-Predict-Tourism-Climate-Index-TCI-in-Bali/assets/136974864/ade8a6b0-3e86-4b7c-8b39-7d69c92b4c7c)
+"Kahang Observatory Station"
+![Uji Prediksi_Prophet](https://github.com/tapriliando/Prophet-Model-for-Predict-Tourism-Climate-Index-TCI-in-Bali/assets/136974864/a89d7551-cddc-4b80-bae8-41ce0eca1769)
+"Jembrana Station"
